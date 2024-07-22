@@ -1,2 +1,2 @@
 # AIproject
-chatbot using python
+chatbot using Java
